@@ -22,6 +22,7 @@
 	list-style: none;
 	display: inline-block;
 	margin: 0px 15px;
+	color: #ccc;
 }
 
 .campaign-table h6{
@@ -30,6 +31,12 @@
 	    margin: 0px;
     line-height: 15px;
 
+}
+.actions-icons i{
+	color: #ccc;
+}
+.actions-icons-calender {
+	color: #222 !important;
 }
 
 .campaign-img {
